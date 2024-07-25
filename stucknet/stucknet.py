@@ -5,6 +5,10 @@ def generate_random_256_bit_passkey():
     # I hope you didn't try a brute force
     return random.randbytes(32)
 
+def get_hint():
+    # if you already reached the source code, perhaps you don't need the hint
+    return 'pip!'
+
 def get_flag():
     # whoa, that was risky!
     # fortunately, I censored the flag before you captured it and permanently deleted it from pypi
