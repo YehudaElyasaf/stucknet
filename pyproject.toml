@@ -7,7 +7,7 @@ package-data = { "sample" = ['*.dat'] }
 
 [project]
 name = 'stucknet'
-version = '1.1.0'
+version = '0.0.1'
 readme = 'README.md'
 
 dependencies = [] # independent package!
@@ -27,4 +27,4 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = 'https://github.com/iranian-pro-hacker/stucknet'
+Homepage = 'https://github.com/YehudaElyasaf/stucknet'
