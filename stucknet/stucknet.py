@@ -1,9 +1,9 @@
 import random
 
 
-def generate_random_passkey():
+def generate_random_256_bit_passkey():
     # I hope you didn't try a brute force
-    return random.randbytes(1)
+    return random.randbytes(32)
 
 
 # print hacked message in red
