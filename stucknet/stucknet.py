@@ -6,7 +6,9 @@ def generate_random_256_bit_passkey():
     return random.randbytes(32)
 
 def get_flag():
-    return 'FLAG{🇮🇱}'
+    # whoa, that was risky!
+    # fortunately, I censored the flag before you captured it and permanently deleted it from pypi
+    return 'SUS{n0t_th3_f14g}'
 
 
 # print hacked message in red
