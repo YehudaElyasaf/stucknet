@@ -7,7 +7,7 @@ package-data = { "sample" = ['*.dat'] }
 
 [project]
 name = 'stucknet'
-version = '0.0.7'
+version = '0.0.8'
 readme = 'README.md'
 
 dependencies = [] # independent package!
