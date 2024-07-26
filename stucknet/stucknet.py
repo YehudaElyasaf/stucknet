@@ -6,8 +6,8 @@ def generate_random_256_bit_passkey():
     return random.randbytes(32)
 
 def get_hint():
-    # if you already reached the source code, perhaps you don't need the hint
-    return 'pip!'
+    # another hint, just in case
+    return 'src!'
 
 def get_flag():
     # whoa, that was risky!
